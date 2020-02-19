@@ -25,4 +25,4 @@ averages of each variable for each activity and each subject of the measurements
 in addition I createed a second, independent tidy data set with the average of each variable for each activity and each subject of measurementsDS. </br>
 
 <h2> code </h2>
-In order to get the data above you need to run the R script called run_analysis.R </br>
+In order to get the data above you need to run the R script called run_analysis.R on the source data files in the repo</br>
