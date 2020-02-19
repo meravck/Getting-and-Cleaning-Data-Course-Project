@@ -14,7 +14,7 @@ measurements on the mean and standard deviation for each source measurement</br>
 SubjectID - uniqe id number of the subject in the data set </br>
 ActivityType - The activity measured. (6 activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)</br>
 The rest of the Varibles: timeBodyAccMeanX, timeBodyAccMeanY, timeBodyAccMeanZ, ... freqBodyBodyGyroJerkMagMeanFreq</br>
-averages of each variable for each activity and each subject of measurementsDS </br>
+averages of each variable for each activity and each subject of the measurements in measurementsDS </br>
 
 <h2> Transformation made on the source data </h2>
 1. Merged the training and the test sets to create one data set.</br>
